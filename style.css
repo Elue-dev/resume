@@ -275,6 +275,18 @@ a{
         width: 60%;
     }
 }
+
+@media screen and (max-width:500px){
+    .name {
+        font-size: 1.5rem;
+    }
+
+    .main-title {
+        font-size: 1.5rem;
+    }
+}
+
+
 @media screen and (max-width:390px){
     .name{
         font-size: 1.5rem;
