@@ -240,6 +240,17 @@ a{
     left: 0;
 }
 
+footer{
+    text-align: center;
+    color: #222;
+    margin-top: 19rem;
+    font-weight: 700;
+}
+
+footer span{
+    margin-left: .2rem;
+}
+
 /*Media Querries*/
 @media screen and (max-width:823px){
     .right-title::after{
